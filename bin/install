@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+bin/build
+ln -s $(pwd)/bin/youtube-dl /usr/local/bin
